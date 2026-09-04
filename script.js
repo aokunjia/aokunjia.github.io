@@ -10,7 +10,9 @@ const DEFAULTS = {
   qq: '2598044648',
   wechat: 'k2598044648',
   jobDirection: '央国企技术岗',
+  politicalStatus: '中共党员',
   workLocation: '北京',
+  languageLevel: 'CET-6',
   wechatPosts: '800+',
   wechatFollowers: '9500+',
   wechatViews: '43w+'
