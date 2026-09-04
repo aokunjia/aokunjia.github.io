@@ -5,7 +5,7 @@ const DEFAULTS = {
   aboutText: '华北电力大学（211）环境工程专业硕士研究生，本科毕业于河南财政金融学院环境科学专业。研究围绕多孔有机材料在污染控制、绿色化学品制备和战略资源回收领域的应用展开，注重实验规范、数据可靠性与机理分析。',
   contactHeading: '期待在技术岗位上创造长期价值',
   email: '15515105034@163.com', phone: '155 1510 5034', qq: '2598044648', wechat: 'k2598044648',
-  jobDirection: '央国企技术岗', workLocation: '北京',
+  jobDirection: '央国企技术岗', politicalStatus: '中共党员', workLocation: '北京', languageLevel: 'CET-6',
   wechatPosts: '800+', wechatFollowers: '9500+', wechatViews: '43w+'
 };
 const form = document.querySelector('#content-form');
